@@ -21,7 +21,7 @@ This GitHub repository hosts the source code for a visually appealing and respon
 1. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/your-username/responsive-landing-page.git
+   git clone https://github.com/DRSTANGE/Prodigy_WD_01.git
    ```
 
 2. Open the `index.html` file in your preferred web browser to view the landing page.
@@ -35,7 +35,4 @@ This GitHub repository hosts the source code for a visually appealing and respon
 3. Customize Content: Modify the HTML, CSS, and JavaScript files to tailor the landing page content, design, and functionality according to your requirements.
 
 
-- Inspired by the need for a versatile and visually appealing landing page template that provides a seamless user experience across all devices.
-- Special thanks to the developers and designers whose work and contributions have influenced and enriched this project.
 
-Feel free to customize this description to match the specific features and characteristics of your responsive landing page project.
